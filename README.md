@@ -16,4 +16,4 @@ Data saved into local DB by Entity Framework.
 
 
 ## Copyright
-Copyright © 2013 [Dima Kuzmich](http://http://www.linkedin.com/in/dimakuzmich)
+Copyright © 2013 [Dima Kuzmich](http://www.linkedin.com/in/dimakuzmich)
