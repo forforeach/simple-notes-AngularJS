@@ -1,0 +1,12 @@
+﻿<form>
+    <fieldset>
+        <legend>Add new note:</legend>
+        <label></label>
+        <input type="text" placeholder="Enter title..." name="Title"
+            ng-model="note.Title" />
+        <label></label>
+        <textarea placeholder="Enter content..." name="Content"
+            ng-model="note.Content"></textarea><br />
+        <input type="submit" class="btn" value="Save" ng-click="save()" />
+    </fieldset>
+</form>
